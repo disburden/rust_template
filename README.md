@@ -1,4 +1,4 @@
-# Geektime Rust 语言训练营
+# WGQ 项目模板
 
 ## 环境设置
 
